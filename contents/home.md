@@ -6,6 +6,6 @@ Before my current position, I did a postdoc in Paris at [Inria](https://www.inri
 
 
 #### Emails
-olegbalabanov[at]gmail.com
+olegbalabanov[at]gmail[dot]com
 
 

@@ -6,7 +6,7 @@ Previously, I did a postdoc in Paris at [Inria](https://www.inria.fr/en) and [Ja
 
 
 #### Emails
-olegbalabanov[at]gmail[dot]com
+olegbalabanov[at]gmail[dot]com <br>
 obalaban[at]berkeley[dot]edu
 
 

@@ -1,4 +1,4 @@
-Oleg Balabanov and Laura Grigori. Randomized Block Gram-Schmidt Process for the Solution of Linear Systems and Eigenvalue Problems. arXiv preprint arXiv:2111.14641, Accepted for publication in SIAM Journal on Scientific Computing. SIAM, 2024.
+Oleg Balabanov and Laura Grigori. [Randomized Block Gram-Schmidt Process for the Solution of Linear Systems and Eigenvalue Problems.](arXiv preprint arXiv:2111.14641), Accepted for publication in SIAM Journal on Scientific Computing. SIAM, 2024.
 
 Oleg Balabanov, Matthias Beaupère, Laura Grigori, and Victor Lederer. Block Subsampled Randomized Hadamard Transform for Nyström Approximation on Distributed Architectures. International Conference on Machine Learning, pages 1564–1576, 2023.
 

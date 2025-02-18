@@ -1,4 +1,4 @@
-I am a senior postdoctoral researcher at [UC Berkeley’s Department of Statistics](https://statistics.berkeley.edu/) and [ICSI’s Big Data](https://www.icsi.berkeley.edu/icsi/groups/big-data) group, as well as an affiliate researcher in [Lawrence Berkeley National Laboratory’s Machine Learning and Analytics](https://vis.lbl.gov) group. 
+I am a senior postdoctoral researcher in [Department of Statistics at UC Berkeley](https://statistics.berkeley.edu/) and [Big Data group at ICSI](https://www.icsi.berkeley.edu/icsi/groups/big-data), as well as an affiliate researcher in [Machine Learning and Analytics group at Lawrence Berkeley National Laboratory.](https://vis.lbl.gov)
 
 Most of my work focuses on *randomized linear algebra* and *numerical methods for large-scale modeling, optimization, and machine learning*. My supervisor is Michael Mahoney.
 
